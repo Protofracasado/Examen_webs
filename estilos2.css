@@ -1,0 +1,14 @@
+p.titol{
+    color: blue;
+    text-align: center;
+}
+
+body{
+    background-color: burlywood;
+}
+
+p.footer{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
